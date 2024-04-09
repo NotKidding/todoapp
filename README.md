@@ -1,5 +1,5 @@
 
-![Header Image](https://github.com/NotKidding/todoapp/blob/master/assets/images/todoLogo.png)
+![Header Image](https://github.com/NotKidding/todoapp/blob/master/assets/images/Banner_todoLogo.png)
 
 # Hey there, Welcome to ToDo App!
 
