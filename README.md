@@ -1,7 +1,7 @@
 
-![Header Image](https://github.com/NotKidding/todoapp/blob/master/assets/images/todoLogo.png)
+![Header Image](https://github.com/NotKidding/todoapp/blob/master/assets/images/Banner_todoLogo.png)
 
-# Hey there, Welcome to ToDo App!
+# Hey there, Welcome to TODO App!
 
 This is your ultimate task management buddy built with Flutter, keeping things easy-peasy while you handle your daily grind.
 
